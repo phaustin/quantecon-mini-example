@@ -1,5 +1,11 @@
 # Scientific Python QuickStart 
 
+
+## activate toc
+
+```{tableofcontents}
+```
+
 This is a short sequence of lectures on Python programming for scientific
 work, written by [Thomas J.  Sargent](http://www.tomsargent.com/) and [John
 Stachurski](https://johnstachurski.net/).
