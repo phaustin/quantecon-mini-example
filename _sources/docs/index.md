@@ -1,7 +1,7 @@
 # Scientific Python QuickStart 
 
 
-## activate toc
+## the links below are broken, while the sidebar links work
 
 ```{tableofcontents}
 ```
